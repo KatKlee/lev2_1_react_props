@@ -1,0 +1,25 @@
+img {
+    width: 100%;
+}
+
+button {
+    background-color: chartreuse;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 20px;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}
+
+h2 {
+    font-size: 1.2em;
+    margin-top: 25px;
+    margin-bottom: 5px;
+}
+
+p {
+    font-size: 1em;
+}
